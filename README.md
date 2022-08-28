@@ -1,6 +1,7 @@
+![Full-Stack Web Developer](https://scontent.fdac5-2.fna.fbcdn.net/v/t39.30808-6/300432589_3200880480135692_4193747956176076424_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeGfQ58nj8x-u2DUJamOi-uZ5DThuqhShNTkNOG6qFKE1OZlwhia7xAk3nr4VzQJUt_KbvDlQVJVtNlOyu2CTZ1V&_nc_ohc=tqG4_9XmT2EAX-ldnka&tn=Ym3cUy5gO8i9EGPF&_nc_ht=scontent.fdac5-2.fna&oh=00_AT-3WZpjskkqRPRTi19Eag1I_Yvv8HtDwoYEphYESvVF9A&oe=630FD6B9)
 ### Hi there 👋, I'm Abdullah Al Noman
 #### Full-Stack Web Developer
-![Full-Stack Web Developer](https://scontent.fdac5-2.fna.fbcdn.net/v/t39.30808-6/300432589_3200880480135692_4193747956176076424_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeGfQ58nj8x-u2DUJamOi-uZ5DThuqhShNTkNOG6qFKE1OZlwhia7xAk3nr4VzQJUt_KbvDlQVJVtNlOyu2CTZ1V&_nc_ohc=tqG4_9XmT2EAX-ldnka&tn=Ym3cUy5gO8i9EGPF&_nc_ht=scontent.fdac5-2.fna&oh=00_AT-3WZpjskkqRPRTi19Eag1I_Yvv8HtDwoYEphYESvVF9A&oe=630FD6B9)
+
 
 I’m a Full-Stack Web developer who is passionate about making error/bug-free web-application with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic and goal-oriented and always work with an end goal in mind. I pride myself on doing quality work and maintaining excellent communication. Most of the time I work with Laravel & Vuejs but some technologies I enjoy working with include WordPress, ReactJS, SvelteJS, JavaScript, Bootstrap, TailwindCss as well as PHP.
 
